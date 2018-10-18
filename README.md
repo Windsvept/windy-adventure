@@ -1,2 +1,2 @@
-# fuzzy-adventure
+# windy-adventure
 Turn based rpg
